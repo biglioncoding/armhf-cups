@@ -7,4 +7,4 @@ At the first run (creation of container), you could just:- <br/>
 2. edit config/cupsd.conf for the configuration of cupsd <br/>
 
 CONTRIBUTORS ARE WELCOME<br/>
-biglioncoding@gmail.com
+biglion.coding@gmail.com
