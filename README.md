@@ -1,4 +1,5 @@
-# armhf-cups
+# A configurable CUPS docker for Raspberry Pi 
+
 A configurable CUPS-in-docker running on armhf Ubuntu 16.04 base
 
 At the first run (creation of container), you could just:- <br/>
