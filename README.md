@@ -5,4 +5,4 @@ You could just:
 1. edit config/password to set the root password of the container at the first run
 2. edit config/cupsd.conf for the configuration of cupsd
 
-Contributors are welcome.
+# CONTRIBUTORS ARE WELCOME
