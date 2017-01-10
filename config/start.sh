@@ -11,6 +11,8 @@ else
     echo config
     cp /config/cupsd.conf /etc/cups
     echo "root:${PASS}" | chpasswd
+    rm /config/password
+    unset PASS
     touch /.config
     /bin/hostname 
     /usr/sbin/cupsd -f
